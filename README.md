@@ -6,3 +6,5 @@ This repository contains the implementation of Semi/Self supervised Learning on 
 refer the above repository for base code and in-depth details.  
   
 Summary and Explanation can be found in our reports.  
+  
+This repo, implementation of the research paper is the part of our coursework, Big Data Analytics.  
