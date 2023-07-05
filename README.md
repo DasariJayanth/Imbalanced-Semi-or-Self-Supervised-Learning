@@ -10,6 +10,7 @@ Summary and Explanation can be found in our reports.
 This repo, implementation of the research paper is the part of our coursework, Big Data Analytics.  
 
 ***Key Takeaways***:    
+  
 Two point of views are considered in the research paper.  
 1. Supervision from labels typically leads to better results than its unsupervised counterparts.  
 2. Heavily imbalanced data naturally incurs “label bias” in the classifier.    
